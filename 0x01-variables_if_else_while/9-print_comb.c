@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - entry point
- * Description: 'print possible combination 0f single-digit number'
+ * Description: 'print possible combination 0f single-digit numbers'
  * Return: Always 0
  */
 int main(void)
